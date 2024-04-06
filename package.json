@@ -119,7 +119,7 @@
     "cz-conventional-changelog": "3.3.0",
     "dotenv-cli": "4.0.0",
     "edit-json-file": "1.5.0",
-    "eslint": "7.17.0",
+    "eslint": "9.0.0",
     "eslint-config-airbnb-typescript": "12.0.0",
     "eslint-config-prettier": "7.1.0",
     "eslint-config-react": "1.1.7",
