@@ -91,7 +91,7 @@
     "@storybook/addon-knobs": "~6.2.2",
     "@storybook/addon-toolbars": "~6.2.2",
     "@storybook/cli": "~6.2.2",
-    "@storybook/react": "~6.2.2",
+    "@storybook/react": "~7.0.0",
     "@types/imagemin": "7.0.0",
     "@types/imagemin-jpegtran": "5.0.0",
     "@types/jest": "^26.0.19",
